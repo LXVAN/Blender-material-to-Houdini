@@ -1,3 +1,11 @@
+my env:
+blender 4.1
+houdini 20.0.547
+python intepreter : 3.12.3
+
+
+
+
 不要用other文件夹中的代码
 用vscode打开 GuiLearn
 依次填写 blender软件安装路径,.blend 文件路径,blenderMatOnly.py的路径,后面的按钮可以让你检查路径是否有效
