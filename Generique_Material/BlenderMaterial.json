@@ -1,0 +1,44 @@
+{
+    "Gold": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Gold_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Gold_Normal_OpenGL.png"
+    },
+    "Main": {
+        "Color": "F:\\standard_library\\RoundPacific\\textures\\Main.jpg",
+        "Emission Color": "F:\\standard_library\\RoundPacific\\textures\\TM.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Main_Normal_OpenGL.png"
+    },
+    "Metal": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Metal_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Metal_Normal_OpenGL.png"
+    },
+    "Metal1": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Metal1_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Metal1_Normal_OpenGL.png"
+    },
+    "Piston": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Piston_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Piston_Normal_OpenGL.png"
+    },
+    "Red": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Red_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Red_Normal_OpenGL.png"
+    },
+    "Sword": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Sword_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Sword_Normal_OpenGL.png"
+    },
+    "Sword1": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Sword1_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Sword1_Normal_OpenGL.png"
+    },
+    "Turbine": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\Turbine_Base_color.png",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\Turbine_Normal_OpenGL.png"
+    },
+    "Visor": {
+        "Base Color": "F:\\standard_library\\RoundPacific\\textures\\gipsy_head_glass.png",
+        "Emission Color": "F:\\standard_library\\RoundPacific\\textures\\gipsy_head_glass.bmp",
+        "NORMAL_MAP": "F:\\standard_library\\RoundPacific\\textures\\gipsy_head_glass_n.png"
+    }
+}
